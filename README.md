@@ -22,8 +22,6 @@ More projects will be added as I continue my learning journey.
 
 ## Technologies Used
 The projects in this repository utilize a range of programming languages and tools, including but not limited to:
-- Java
-- JavaFX
 - MySQL
 - Angular
 - HTML/CSS/JavaScript
@@ -32,7 +30,7 @@ The projects in this repository utilize a range of programming languages and too
 ## How to Use
 To explore the projects:
 1. Navigate to the folder of the project you're interested in.
-2. Review the documentation or README file within the project's folder for details on how to run the project.
 3. Clone the repository and run the code locally if you'd like to explore the implementation further:
+   
    ```bash
    git clone https://github.com/your-username/Portfolio-Projects.git
