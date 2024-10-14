@@ -15,7 +15,7 @@ This repository serves as a collection of my programming work, where I demonstra
 ## Projects
 Below is a list of the projects included in this repository. Each folder contains the source code and relevant documentation for the project.
 
-- **Project 1**: [Survey Form](./Git-Projects/SurveyForm)  
+- **Project 1**: [Survey Form](https://github.com/AarshdeepSingh/Portfolio-Projects/tree/main/SurveyForm)  
 _A Basic survey form created using HTML and CSS_
 
 More projects will be added as I continue my learning journey.
