@@ -33,4 +33,4 @@ To explore the projects:
 3. Clone the repository and run the code locally if you'd like to explore the implementation further:
    
    ```bash
-   git clone https://github.com/your-username/Portfolio-Projects.git
+   git clone https://github.com/AarshdeepSingh/Portfolio-Projects
